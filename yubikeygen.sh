@@ -316,7 +316,7 @@ EOF
 
 echo -e '[\e[1;37m*\e[0m] \e[1;32mRemove password from env and delete passphrase file\e[0m'
 rm ${GNUPGHOME}/passphrase
-lukespwd=""
+lukspwd=""
 
 echo -e '[\e[1;37m*\e[0m] \e[1;32mDone\e[0m'
 echo
